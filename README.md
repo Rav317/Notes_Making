@@ -1,6 +1,6 @@
 # Notes_Making
 
-As partof DotSlash 2020 held at PES Univerisity we created
+As part of DotSlash 2020 held at PES Univerisity we created
 a NLP based Notes making application that creates written notes out of lecture videos and audios.
 
 NLP is used to find the particular topic about which the lecture is about. 
